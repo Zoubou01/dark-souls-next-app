@@ -1,0 +1,13 @@
+.dashboard{
+    background-image: url('/company.png');
+    height: 100vh;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.height{
+    display: flex;
+    align-items: center;
+}
